@@ -7,3 +7,16 @@ Gemfile.lock
 codekit-config.json
 node_modules
 _asset_bundler_cache
+
+# Additional files from https://github.com/jekyll/jekyll/blob/master/.gitignore
+test/dest
+*.gem
+pkg/
+*.swp
+*~
+.bundle/
+bbin/
+gh-pages/
+site/_site/
+coverage
+.ruby-version
