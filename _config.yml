@@ -1,7 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            amingilani
 locale:           en_US
+url:              https://amingilani.github.io
 url:              http://localhost:4000
 
 
@@ -26,29 +27,29 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
+  name: Amin Shah Gilani
+  avatar: https://avatars0.githubusercontent.com/u/1188552?v=2&s=460
+  bio: "Yet another humanoid."
   email: 
-  disqus-shortname: 
-  twitter: #username
-  facebook: #username
+  disqus-shortname: amingilani
+  twitter: amingilani
+  facebook: aminshahgilani
   google:
-    plus: #username
-    analytics: 
-    verify: 
+    plus: aminshahgilani
+    analytics: UA-36754712-2
+    verify:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
-  stackoverflow: #http://stackoverflow.com/users/123456/username
+  github: amingilani
+  stackoverflow: https://stackoverflow.com/users/3970701/amingilani
   linkedin: #username
-  instagram: #username
+  instagram: amingilani
   lastfm: #username
   tumblr: #username
   pinterest: #username
   foursquare: #username
-  steam: #username
+  steam: aminshahgilani
   dribbble: #username
 
 include: [".htaccess"]
