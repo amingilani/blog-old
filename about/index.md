@@ -12,7 +12,7 @@ image:
 
 A superhero, a techie, a reader, an unpublished author, a foodie, and a Sunday-guitar-player; all in that order. I write what I like, but sometimes not, and any opinions I express are usually my own. I can successfully speak two languages (English and Urdu), and stammer an incoherrent mixture of three others (Seraiki, Punjabi, and Gibberish). I hate spinach, and I like my steak rare.
 
-This is where I share my two [aanas](https://en.wikipedia.org/wiki/Indian_anna) of wisdom.
+This is my own personal corner of the internet, where I play God, and share my two [aanas](https://en.wikipedia.org/wiki/Indian_anna) of wisdom.
 
 ## Other stuff:
 
