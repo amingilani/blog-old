@@ -46,28 +46,30 @@ Lord Tywin Lannister, the Great Lion of Casterly Rock lived to see his eldest so
 
 **\*spoiler, spoiler, spoiler\*** Atleast he didn't see his Queen daughter convicted of regicide, deicide, and fornication, or see her walk stripped and shaved across King's Landing from the Great Sept of Baelor to the Red Keep. Excerpt:
 
-> “Did you love him?” Jaime heard himself ask. His aunt looked at him
-> strangely. “I was seven when Walder Frey persuaded my lord father to
-> give my hand to Emm. His second son, not even his heir. Father was
-> himself a thirdborn son, and younger children crave the approval of
-> their elders. Frey sensed that weakness in him, and Father agreed for
-> no better reason than to please him. My betrothal was announced at a
-> feast with half the west in attendance. Ellyn Tarbeck laughed and the
-> Red Lion went angry from the hall. The rest sat on their tongues. Only
-> Tywin dared speak against the match. A boy of ten. Father turned as
-> white as mare’s milk, and Walder Frey was quivering.” She smiled. “How
-> could I not love him, after that? That is not to say that I approved
-> of all he did, or much enjoyed the company of the man that he became .
-> . . but every little girl needs a big brother to protect her. Tywin
-> was big even when he was little.” She gave a sigh. “Who will protect
-> us now?” Jaime kissed her cheek. “He left a son.” “Aye, he did. That
-> is what I fear the most, in truth.” That was a queer remark. “Why
-> should you fear?” “Jaime,” she said, tugging on his ear, “sweetling, I
-> have known you since you were a babe at Joanna’s breast. You smile
-> like Gerion and fight like Tyg, and there’s some of Kevan in you, else
-> you would not wear that cloak . . . but Tyrion is Tywin’s son, not
-> you. I said so once to your father’s face, and he would not speak to
-> me for half a year. Men are such thundering great fools. Even the sort
-> who come along once in a thousand years.”
->     ---  A Feast for Crows, Chapter 33.
+> “Did you love him?” Jaime heard himself ask.
+> 
+> His aunt looked at him strangely. “I was seven when Walder Frey persuaded my lord father to give my
+> hand to Emm. His second son, not even his heir. Father was himself a thirdborn son, and younger
+> children crave the approval of their elders. Frey sensed that weakness in him, and Father agreed for no 
+> better reason than to please him. My betrothal was announced at a feast with half the west in 
+> attendance. Ellyn Tarbeck laughed and the Red Lion went angry from the hall. The rest sat on their 
+> tongues. Only Tywin dared speak against the match. A boy of ten. Father turned as white as mare’s 
+> milk, and Walder Frey was quivering.”
+> 
+> She smiled. “How could I not love him, after that? That is not to say that I approved of all he did, or 
+> much enjoyed the company of the man that he became . . . but every little girl needs a big brother to 
+> protect her. Tywin was big even when he was little.” She gave a sigh. “Who will protect us now?”
+> 
+> Jaime kissed her cheek. “He left a son.”
+> 
+> “Aye, he did. That is what I fear the most, in truth.”
+> That was a queer remark. “Why should you fear?”
+> 
+> “Jaime,” she said, tugging on his ear, “sweetling, I have known you since you were a babe at Joanna’s 
+> breast. You smile like Gerion and fight like Tyg, and there’s some of Kevan in you, else you would not 
+> wear that cloak . . . but Tyrion is Tywin’s son, not you. I said so once to your father’s face, and he would 
+> not speak to me for half a year. Men are such thundering great fools. Even the sort who come along 
+> once in a thousand years.”
+>
+> --- A Feast for Crows, Chapter 33.
 
