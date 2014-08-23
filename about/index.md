@@ -1,25 +1,22 @@
 ---
 layout: page
-title: About the Theme
+title: Where you stare at my face.
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 image:
-  feature: texture-feature-02.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+  feature: myface.jpg
+  credit: Ubaid Ullah Ahmed
+  creditlink: https://www.facebook.com/ubeee
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+A superhero, techie, reader, writer, foodie, and I play my guitar on Sundays, all in that order. I write what I like, but sometimes not, and any opinions I express are usually my own. I can successfully speak two languages (English and Urdu), and stammer an incoherrent mixture of three others (Seraiki, Punjabi, and Gibberish). I hate spinach, and I like my steak rare.
 
-## Minimal Mistakes is all about:
+This is where I share my two [aanas](https://en.wikipedia.org/wiki/Indian_anna) of wisdom.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
+## Other stuff:
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+* PGP Key: [0x4cd8d8f2](https://encrypt.to/0x4cd8d8f2)
+* BTC: [1EGD5M1vtJXHrZG8XdqsiHBESA9BXBtdG9](https://btc.blockr.io/address/info/1EGD5M1vtJXHrZG8XdqsiHBESA9BXBtdG9)
+* LTC: [LeJPqBucq2TAaXCydcxQyhDiMjSTUqUZLp](http://ltc.blockr.io/address/info/LeJPqBucq2TAaXCydcxQyhDiMjSTUqUZLp)
+* DOGE: [DB3P65RqjTgi9YJaEKRDcKxuatpkfUNU8M](http://dogechain.info/address/DB3P65RqjTgi9YJaEKRDcKxuatpkfUNU8M	)
