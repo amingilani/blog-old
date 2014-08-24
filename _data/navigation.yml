@@ -1,7 +1,10 @@
 # Site navigation links
 
+- title: All Posts
+  url: /posts/
+
 - title: About
   url: /about/
 
-- title: All Posts
-  url: /posts/
+- title: Contact
+  url: /contact/
