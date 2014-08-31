@@ -1,0 +1,594 @@
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<base href="http://www.pakistan.gov.pk/gop/message.html"><div style="background:#fff;border:1px solid #999;margin:-1px -1px 0;padding:0;"><div style="background:#ddd;border:1px solid #999;color:#000;font:13px arial,sans-serif;font-weight:normal;margin:12px;padding:8px;text-align:left">This is Google&#39;s cache of <a href="http://www.pakistan.gov.pk/gop/message.html" style="text-decoration:underline;color:#00c">http://www.pakistan.gov.pk/gop/message.html</a>. It is a snapshot of the page as it appeared on 31 Aug 2014 17:31:24 GMT. The <a href="http://www.pakistan.gov.pk/gop/message.html" style="text-decoration:underline;color:#00c">current page</a> could have changed in the meantime. <a href="http://support.google.com/websearch/bin/answer.py?hl=en&amp;p=cached&amp;answer=1687222" style="text-decoration:underline;color:#00c">Learn more</a><br>Tip: To quickly find your search term on this page, press <b>Ctrl+F</b> or <b>⌘-F</b> (Mac) and use the find bar.<br><br><div style="float:right"><a href="http://webcache.googleusercontent.com/search?q=cache:www.pakistan.gov.pk/gop/message.html&amp;client=ubuntu&amp;hs=FRt&amp;channel=fs&strip=1" style="text-decoration:underline;color:#00c">Text-only version</a></div>
+<div>&nbsp;</div></div></div><div style="position:relative">
+ 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html>
+<head>
+  <meta content="text/html; charset=ISO-8859-1"
+ http-equiv="content-type" />
+  <title>index</title>
+  <link rel="stylesheet" href="http://www.pakistan.gov.pk/gop/index.php?q=aHR0cDovLzE5Mi4xNjguNzAuMTM2L2dvcC9sYXlvdXQuY3Nz" type="text/css" />
+  <title>
+	GOP Portal
+</title>
+  <link type="text/css" href="http://www.pakistan.gov.pk/gop/index.php?q=aHR0cDovLzE5Mi4xNjguNzAuMTM2L2dvcC9jc3MvZ29wLmNzcw%3D%3D" rel="stylesheet" />	
+
+  <script src="http://www.pakistan.gov.pk/gop/index.php?q=aHR0cDovLzE5Mi4xNjguNzAuMTM2L2dvcC9pbWFnZXMvanF1ZXJ5LTEuNS4xLm1pbi5qcw%3D%3D" type="text/javascript"></script>
+  <script src="http://www.pakistan.gov.pk/gop/index.php?q=aHR0cDovLzE5Mi4xNjguNzAuMTM2L2dvcC9pbWFnZXMvc2ltcGxlZ2FsbGVyeS5qcw%3D%3D" type="text/javascript"></script>
+  <script src="http://www.pakistan.gov.pk/gop/index.php?q=aHR0cDovLzE5Mi4xNjguNzAuMTM2L2dvcC9pbWFnZXMvanF1ZXJ5Lm1hcnF1ZWUubWluLmpz" type="text/javascript"></script>
+  <script type="text/javascript" src="http://www.pakistan.gov.pk/gop/index.php?q=aHR0cDovLzE5Mi4xNjguNzAuMTM2L2dvcC9pbWFnZXMvaG92ZXJpbnRlbnQuanM%3D"></script>
+  <script type="text/javascript" src="http://www.pakistan.gov.pk/gop/index.php?q=aHR0cDovLzE5Mi4xNjguNzAuMTM2L2dvcC9pbWFnZXMvc3VwZXJmaXNoLmpz"></script>
+
+		<script type="text/javascript">
+
+		    // initialise plugins
+		    jQuery(function () {
+		        jQuery('ul.sf-menu').superfish();
+		    });
+
+		</script>
+</head>
+<body class="whtable">
+<form method="post" action="http://www.pakistan.gov.pk/gop/index.php"></form>
+<div id="nav"><strong><a href="http://www.pakistan.gov.pk/gop/index.php?q=aHR0cDovLzE5Mi4xNjguNzAuMTM2L2dvcC8uLw%3D%3D">Home</a></strong>
+&nbsp;<a href="http://www.pakistan.gov.pk/gop/index.php?q=aHR0cDovLzE5Mi4xNjguNzAuMTM2L2dvcC9mcm1EZXRhaWxzLmFzcHg%2FcD1wb3N0YWxjb2Rlcw%3D%3D">
+<!--</a> &nbsp;| &nbsp;<a href="#">Career
+</a> &nbsp;| &nbsp;<a href="#">Chat</a>-->
+&nbsp;| &nbsp;<a href="#">Contact Us</a>
+&nbsp;| &nbsp;<a href="#">Sitemap</a>
+</div>
+<div id="banner">
+<img src="http://www.pakistan.gov.pk/gop/index.php?q=aHR0cDovLzE5Mi4xNjguNzAuMTM2L2dvcC9pbWFnZXMvZ29wZmluYWxnaWYuZ2lm" width="100%" height="120px" border="0px" />
+</div>
+<div id="nav">
+      <div id="newsTicker" style="width:100%;margin:2px 2 2px 2px;padding:0px;clear:both;postion:relative;overflow:hidden;vertical-align:middle;">            <div class="title"><form id="form1" method="post" action="http://www.pakistan.gov.pk/gop/index.php?q=aHR0cDovLzE5Mi4xNjguNzAuMTM2L2dvcC9mcm1EZXRhaWxzLmFzcHg%3D">
+<input type="text" style="margin-top:-3px; margin-left:20px;" value="search" id="sear" onclick="document.getElementById('sear').value='';" onmouseout="document.getElementById('sear').value='search';" />
+<label for="search">Headlines &raquo&raquo&raquo&raquo&raquo</label> </form><span class="k">.......</span></div>
+  			 <div class="newsTick" style="vertical-align:middle; width:79.3%;">
+			   <ul id="scroller" class="news" style="margin-top:0px;">
+<marquee onmouseover="this.stop()" onmouseout="this.start()" direction="left" scrollamount="1" scrolldelay="50" style="color:#FFF; margin-top:0px; width:100%;"><span id="newsScroll"><a href="http://www.pakistan.gov.pk/gop/index.php?q=aHR0cDovLzE5Mi4xNjguNzAuMTM2L2dvcC9mcm1EZXRhaWxzLmFzcHg%2Fb3B0PW5ld3MmaWQ9MjU%3D" style="color:#930;float:right;">&nbsp;</a></span></MARQUEE>
+	         </div>
+     </div>
+</div>
+
+<div id="left" style="margin-top:5px;">
+
+
+<div id="left-col"> 
+ 
+ <div class="module">
+ <div><div><div>
+  <h1>Pakistan</h1>
+  <!--<img src="http://www.pakistan.gov.pk/gop/index.php?q=aHR0cDovLzE5Mi4xNjguNzAuMTM2L2dvcC9pbWFnZXMvY2l0aXplbnMuanBn" width="70" height="52" border="0px" style="border: 1px solid #DEEAEF;" />-->
+  <div id="gvQL"><table cellspacing='0' rules='all' border='1' width='98%'><ul><li style="font-size: 11px;border-bottom: 0px solid #D1DFE9;border-top: 1px solid #D1DFE9;width:105%;height:10px;"><div style="font-size: 11px;padding:3px;"><a href="http://president.gov.pk/" target="_blank">President of Pakistan</a></div></li><ul><li style="font-size: 11px;border-bottom: 0px solid #D1DFE9;border-top: 1px solid #D1DFE9;width:105%;height:10px;"><div style="font-size: 11px;padding:3px;"><a href="http://www.storyofpakistan.com/prehistoric/" target="_blank">Story of Pakistan</a></div></li><ul><li style="font-size: 11px;border-bottom: 0px solid #D1DFE9;border-top: 1px solid #D1DFE9;width:105%;height:10px;"><div style="font-size: 11px;padding:3px;"><a href="http://www.pakistan.gov.pk/gop/index.php?q=aHR0cDovLzE5Mi4xNjguNzAuMTM2L2dvcC8uL2d1emV0dGUucGRm" target="_blank">Gazette</a></div></li><ul><li style="font-size: 11px;border-bottom: 0px solid #D1DFE9;border-top: 1px solid #D1DFE9;width:105%;height:10px;"><div style="font-size: 11px;padding:3px;"><a href="http://www.nlp.gov.pk/booking.html" target="_blank">National Bibliography</a></div></li><ul><li style="font-size: 11px;border-bottom: 0px solid #D1DFE9;border-top: 1px solid #D1DFE9;width:105%;height:10px;"><div style="font-size: 11px;padding:3px;"><a href="http://www.pakistan.gov.pk/gop/index.php?q=aHR0cDovLzE5Mi4xNjguNzAuMTM2L2dvcC8uL2ZybURldGFpbHMuYXNweD9vcHQ9bWlzY2xpbmtzJmlkPTQx" target="_blank">National Symbols</a></div></li><ul><li style="font-size: 11px;border-bottom: 0px solid #D1DFE9;border-top: 1px solid #D1DFE9;width:105%;height:10px;"><div style="font-size: 11px;padding:3px;"><a href="http://www.adb.org/countries/pakistan/economy" target="_blank">Economy & Resources</a></div></li><ul><li style="font-size: 11px;border-bottom: 0px solid #D1DFE9;border-top: 1px solid #D1DFE9;width:105%;height:10px;"><div style="font-size: 11px;padding:3px;"><a href="http://www.pakistantumhetoho.com.pk/PakTumHe" target="_blank"> National Heroes</a></div></li><ul><li style="font-size: 11px;border-bottom: 0px solid #D1DFE9;border-top: 1px solid #D1DFE9;width:105%;height:10px;"><div style="font-size: 11px;padding:3px;"><a href="http://www.islambasics.com/view.php?act=about" target="_blank">Religion</a></div></li><li style="font-size: 11px;border-bottom: 1px solid #D1DFE9;border-top: 0px solid #D1DFE9;width:100%;height:10px;"></li></ul></table></div>
+  <!--<a href="#" style="color:#930; float:right; ">Read More</a>-->
+     </div></div></div></div>
+     
+      
+ <div id="leftPortlet"><div class='module'><div><div><div><h1>Useful Links</h1><table width="204" height="245" border="1" cellspacing="1" cellpadding="1">
+    <tbody>
+        <tr>
+            <td><a href="http://forms.gov.pk/"><img width="200" height="75" alt="" src="http://www.pakistan.gov.pk/gop/index.php?q=aHR0cDovLzE5Mi4xNjguNzAuMTM2L2dvcC91c2VyZmlsZXMxL2ltYWdlL2xlZnQlMjBjb2x1bW4vc2VhcmNoJTIwZWZvcm1zLmpwZw%3D%3D" /></a></td>
+        </tr>
+        <tr>
+            <td><a href="http://scholarships.hec.gov.pk" target="_blank"><img width="200" height="75" src="http://www.pakistan.gov.pk/gop/index.php?q=aHR0cDovLzE5Mi4xNjguNzAuMTM2L2dvcC91c2VyZmlsZXMxL2ltYWdlL2xlZnQlMjBjb2x1bW4vYm9uZHV0ZXN0XzAwMjE2OC5qcGc%3D" alt="" /></a></td>
+        </tr>
+        <tr margin-top="-15px">
+            <td><a href="http://vu.edu.pk" target="_blank"><img width="200" height="72" src="http://www.pakistan.gov.pk/gop/index.php?q=aHR0cDovLzE5Mi4xNjguNzAuMTM2L2dvcC91c2VyZmlsZXMxL2ltYWdlL3JpZ2h0LzExMTEuanBn" alt="" /></a></td>
+        </tr>
+        <tr>
+            <td><a href="http://www.nlp.gov.pk/booking.html" target="_blank"><img width="200" height="72" src="http://www.pakistan.gov.pk/gop/index.php?q=aHR0cDovLzE5Mi4xNjguNzAuMTM2L2dvcC91c2VyZmlsZXMxL2ltYWdlL2xlZnQlMjBjb2x1bW4vYm9va2luZy5wbmc%3D" alt="" /></a></td>
+        </tr>
+        <tr>
+            <td><a href="http://nadra.gov.pk/index.php/search/tracking" target="_blank"><img width="200" height="75" src="http://www.pakistan.gov.pk/gop/index.php?q=aHR0cDovLzE5Mi4xNjguNzAuMTM2L2dvcC91c2VyZmlsZXMxL2ltYWdlL2xlZnQlMjBjb2x1bW4vdHJjay5qcGc%3D" alt="" /></a></td>
+        </tr>
+    </tbody>
+</table> </div></div></div></div><div class='module'><div><div><div><h1>Informative Links</h1><table width="200" cellspacing="1" cellpadding="1" border="1">
+    <tbody>
+        <tr>
+            <td><a target="_blank" href="http://www.nap.gov.pk/picture%20gallery2.asp"><img width="200" height="85" alt="" src="http://www.pakistan.gov.pk/gop/index.php?q=aHR0cDovLzE5Mi4xNjguNzAuMTM2L2dvcC91c2VyZmlsZXMxL2ltYWdlL2xlZnQlMjBjb2x1bW4vcXVhaWRfcGljLmpwZw%3D%3D" /></a></td>
+        </tr>
+        <tr>
+            <td><a target="_blank" href="http://app.com.pk/en_/index.php?option=com_content&amp;task=blogcategory&amp;id=76&amp;Itemid=102"><img width="200" height="75" alt="" src="http://www.pakistan.gov.pk/gop/index.php?q=aHR0cDovLzE5Mi4xNjguNzAuMTM2L2dvcC91c2VyZmlsZXMxL2ltYWdlL2xlZnQlMjBjb2x1bW4vZWdpb25hbCUyMG5ld3MuanBn" /></a></td>
+        </tr>
+    </tbody>
+</table>
+<p>&nbsp;</p> </div></div></div></div></div>
+            
+  </div>
+</div>
+<div id="center" style="margin-top:3px;">
+<!-- Start content -->
+
+<div id="at-contentwrap" style="margin-top:3px;">
+
+
+
+
+
+
+
+
+
+
+
+<!-- /////////////  Start Tabcolumn  ////////////////// -->
+
+<div id="at-tabcol">
+<script type="text/javascript">
+    window.addEvent('domready', kokpith);
+    function kokpith() {
+        pithpith = new karush('at-tabmodulewrap-bot', {
+            width: '100%', height: 'auto', duration: 1000, changeTransition: Fx.Transitions.Expo.easeOut, animType: 'animLesh'
+        });
+    }
+</script>
+<div id="module">
+
+<div>
+<div>
+<div>
+
+ 
+  
+
+  <div id="HeadContent_titleHeading"><div><div style="width:100%;border-collapse:collapse;background-color:#FFFFFF;"><p style="margin-left:83%;margin-top:1px;color:Maroon;"><strong></strong></p></div><div class="left_content" id="left_content" style="width:100%;border-collapse:collapse;background-color:#FFFFFF"><h2 id='titleHeading'><p style="margin-top:-4px;"><a href="http://www.pakistan.gov.pk/gop/index.php?q=aHR0cDovLzE5Mi4xNjguNzAuMTM2L2dvcC9kZWZhdWx0LmFzcHg%3D">Home&nbsp;</a>|&nbsp;MESSAGE OF THE GULLU-E-AZAM</h2></p><p style="margin-top:-14px;"><p style="margin: 10px 25px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background-color: transparent; font-family: Arial; font-size: 13px; color: rgb(69, 69, 69); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 19px; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-align: justify; background-position: initial initial; background-repeat: initial initial;" class="MsoNormal">&nbsp;</p>
+<p style="margin: 10px 25px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background-color: transparent; font-family: Arial; font-size: 13px; color: rgb(69, 69, 69); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 19px; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-align: justify; background-position: initial initial; background-repeat: initial initial;" class="MsoNormal"><span style="margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background-color: transparent; font-family: Arial; background-position: initial initial; background-repeat: initial initial;"><span style="margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background-color: transparent; background-position: initial initial; background-repeat: initial initial;">
+<a href="http://tinypic.com?ref=2ltsr40" target="_blank"><img src="http://i61.tinypic.com/2ltsr40.jpg" border="0" alt="Image and video hosting by TinyPic"></a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<span class="Apple-converted-space">&nbsp;</span></span>
+As you are aware that I Mian Nawaz Sharif am the most corrupt politician and the most corrupt prime minister in Pakistan's history. I have been killing innocent people from a long time now. Therefore, many people named me as a "Killer" and a "Murderer". Few days ago, I had sent many Gullu butts to Islamabad at Imran Khan's Azadi March in police uniform. All Pakistani's wanted me to resign, therefore I told my Gullu butts to start killing innocent children, women and men at the Azadi March. I always cheated in politics and I always will.
+<br>
+</span></p>
+<a href="http://tinypic.com?ref=21j7woy" target="_blank"><img src="http://i61.tinypic.com/21j7woy.jpg" border="0" alt="Image and video hosting by TinyPic"></a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br>
+<p style="margin: 10px 25px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background-color: transparent; font-family: Arial; font-size: 13px; color: rgb(69, 69, 69); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 19px; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-align: justify; background-position: initial initial; background-repeat: initial initial;" class="MsoNormal"><span style="margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background-color: transparent; font-family: Arial; background-position: initial initial; background-repeat: initial initial;"><span style="margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background-color: transparent; background-position: initial initial; background-repeat: initial initial;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="Apple-converted-space">&nbsp;</span></span>However, I am not the only one that is killing innocent people around in Pakistan. One of my best friend "The Joker AKA Asif Ali Zardari" who killed his own wife and wifes brother is working with me too. Our plan is to destroy Pakistan nice and slowly. People always wanted a change in the country, but we never gave them and never will !
+<br><br>
+<a href="http://tinypic.com?ref=flki11" target="_blank"><img src="http://i58.tinypic.com/flki11.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+
+<br><br><br><br><br><br><br><br>
+
+
+Thank you for reading and understanding.<br>
+Pakistan Zindabad
+
+</span></p>
+<p style="margin: 10px 25px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background-color: transparent; font-family: Arial; font-size: 13px; color: rgb(69, 69, 69); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 19px; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-align: justify; background-position: initial initial; background-repeat: initial initial;" class="MsoNormal"><span style="margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background-color: transparent; font-family: Arial; background-position: initial initial; background-repeat: initial initial;"><span style="margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background-color: transparent; background-position: initial initial; background-repeat: initial initial;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="Apple-converted-space">&nbsp;</span></span></span></p>
+<p style="margin: 10px 25px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background-color: transparent; font-family: Arial; font-size: 13px; color: rgb(69, 69, 69); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 19px; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-align: justify; background-position: initial initial; background-repeat: initial initial;" class="MsoNormal"><span style="margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background-color: transparent; font-family: Arial; background-position: initial initial; background-repeat: initial initial;"><span style="margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background-color: transparent; background-position: initial initial; background-repeat: initial initial;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="Apple-converted-space">&nbsp;</span></span></span></p></p></div></div></div>
+
+
+ 
+ <!--      CENTER LINKS   ----->
+ 
+		  </div>
+	
+	
+ </div>
+ <!----    END CENTER LINKS  ----->
+  <!-- /////////////  End Tabcolumn  ////////////////// -->
+ 
+
+
+
+ </div>
+</div></div></div></div>
+  <h1>&nbsp;</h1>
+ 
+
+ <div id="right" style="margin-top:-30px;"> 
+ <div id="govtinitiatives"><div class='module'><div><div><div><h1>PM Youth Programme</h1><p style="text-align: justify;">&nbsp;</p>
+<p style="text-align: justify;"><img width="231" height="148" alt="" src="http://www.pakistan.gov.pk/gop/index.php?q=aHR0cDovLzE5Mi4xNjguNzAuMTM2L2dvcC91c2VyZmlsZXMxL2ltYWdlL3JpZ2h0L1Bha2lzdGFuX2RheTIuanBn" /></p>
+<p style="text-align: justify;"><a href="http://youth.pmo.gov.pk/"><img width="237" height="120" alt="" src="http://www.pakistan.gov.pk/gop/index.php?q=aHR0cDovLzE5Mi4xNjguNzAuMTM2L2dvcC91c2VyZmlsZXMxL2ltYWdlL3JpZ2h0L1BNeW91dGhMb2dvLmpwZw%3D%3D" /></a></p>
+<p><a href="http://youth.pmo.gov.pk/"><span style="color: rgb(0, 0, 255);"><strong>PM Program for Youth</strong>&nbsp;<img width="33" height="12" src="http://www.pakistan.gov.pk/gop/index.php?q=aHR0cDovLzE5Mi4xNjguNzAuMTM2L2dvcC91c2VyZmlsZXMxL2ltYWdlL3JpZ2h0L25ldy5naWY%3D" alt="" /></span></a></p>
+<p><a href="http://54.227.78.235/"><span style="color: rgb(0, 0, 128);"><strong>&nbsp;Free Pre-Feasibilities for Small Business Loan Schemes&nbsp;</strong></span></a><span style="color: rgb(0, 0, 128);">&nbsp; </span><img width="33" height="12" src="http://www.pakistan.gov.pk/gop/index.php?q=aHR0cDovLzE5Mi4xNjguNzAuMTM2L2dvcC91c2VyZmlsZXMxL2ltYWdlL3JpZ2h0L25ldy5naWY%3D" alt="" /></p>
+<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align: justify;"><span style="color: rgb(51, 153, 102);"><strong><span style="font-size: medium;">Message from Prime Minister</span></strong></span></p>
+<p style="text-align: justify;"><span style="color: rgb(69, 69, 69); font-family: Arial; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 19px; orphans: auto; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none;"><img width="66" height="80" alt="" src="http://i59.tinypic.com/a3m6gw.jpg" /></span><span style="font-size: 11px;"><span style="font-family: Arial;"><span style="color: rgb(69, 69, 69); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 19px; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline ! important; float: none;"> </span></span><span style="font-size: small;"><span style="font-family: Arial;"><span style="color: rgb(69, 69, 69); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 19px; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline ! important; float: none;">A</span></span><span style="color: rgb(69, 69, 69); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 19px; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline ! important; float: none;">s  you are aware that I Mian Nawaz Sharif am the most corrupt politician and the most corrupt prime minister in Pakistan's history. Kindly click Read more to </span></span></span> <a style="color:#930;" target="_blank" href="http://www.pakistan.gov.pk/gop/message.html">Read More</a></p> </div></div></div></div><div class='module'><div><div><div><h1>Government Policies</h1><p style="text-align: justify;">&nbsp;</p>
+<p><img width="70" height="52" border="1px" src="http://www.pakistan.gov.pk/gop/index.php?q=aHR0cDovLzE5Mi4xNjguNzAuMTM2L2dvcC9pbWFnZXMvcG9saWNpZXMucG5n" style="border: 1px solid #DEEAEF;" alt="" /></p>
+<p align="justify"><span style="font-size: small;"><span style="font-family: Arial;">A policy is a set of  declared objectives that a government or party seeks to achieve and  preserve in the interest of national community. It is a plan or course  of action, as of a government, political party, or business, intended to  influence and determine decisions, actions, and other matters. The  section includes various government policies introduced.</span></span><span style="font-family: Tahoma;"> </span><a href="http://www.pakistan.gov.pk/gop/index.php?q=aHR0cDovLzE5Mi4xNjguNzAuMTM2L2dvcC8uL2ZybURldGFpbHMuYXNweD9vcHQ9bWlzY2xpbmtzJmFtcDtpZD0y" style="color:#930;">Read More</a></p> </div></div></div></div><div class='module'><div><div><div><h1>Polio Eradication Initiative</h1><p><img src="http://www.pakistan.gov.pk/gop/index.php?q=aHR0cDovLzE5Mi4xNjguNzAuMTM2L2dvcC9pbWFnZXMvcG9saW8ucG5n" width="70" height="52" style="border: 1px solid #DEEAEF;" alt="" /></p>
+<p>The Prime Minister launched Polio Action Plan with the direct engagement of His Excellency the President. An Inter-provincial Committee for Polio (IPCP) was established in this regard.&nbsp;<a href="http://www.polioeradication.org/Infectedcountries/Pakistan.aspx" target="_blank" style="color:#930;">Read More</a></p> </div></div></div></div><div class='module'><div><div><div><h1>Girls Education</h1><p><img src="http://www.pakistan.gov.pk/gop/index.php?q=aHR0cDovLzE5Mi4xNjguNzAuMTM2L2dvcC9pbWFnZXMvZ2lybGVkdWNhdGlvbi5wbmc%3D" width="70" height="52" style="border: 1px solid #DEEAEF;" alt="" /></p>
+<p>Pakistan's Ministry of Education, with the support of the National Commission for Human Development, the UNGEI, the United Kingdom's Department for International Development and UNICEF, launched the (PGEI) on 9 December at the NCA.</p>
+<p><a href="http://www.maruf.org/?p=211" target="_blank" style="color:#930;">Read More</a></p> </div></div></div></div><div class='module'><div><div><div><h1>Print & Electronic Media</h1><p><img src="http://www.pakistan.gov.pk/gop/index.php?q=aHR0cDovLzE5Mi4xNjguNzAuMTM2L2dvcC9pbWFnZXMvdXNlcjgucG5n" width="70" height="52" style="border: 1px solid #DEEAEF;" alt="" /></p>
+<p>Media In Pakistan is providing information at a very large scale. It is being recognized as contributing significantly in important national issues.  The media in Pakistan has recorded tremendous growth in a limited time.</p>
+<p><a href="http://www.pba.org.pk/" target="_blank" style="color:#930;">Read More</a></p> </div></div></div></div></div>
+</div>
+<div id="whtable"><div id="whtable">
+<div id="whtheader">&nbsp;</div>
+<!-- end whtheader div -->
+<div id="whtcontent">
+<div class="col1" style="margin-left:-2px;">
+<ul>
+    <li><strong>Contact Government</strong></li>
+    <li><a href="http://pakistantelephonedirectory.freeonlineserver.com/Pakistan_important_numbers.php">Telephone Hotlines</a></li>
+    <li><a href="http://na.gov.pk/en/all_members.php">Contact Your Local Member</a></li>
+    <li><a href="http://www.pakistan.gov.pk/gop/index.php?q=aHR0cDovLzE5Mi4xNjguNzAuMTM2L2dvcC8uL2ZybURldGFpbHMuYXNweD9vcHQ9bWlzY2xpbmtzJmFtcDtpZD0zNQ%3D%3D" target="_blank">Contact Government</a></li>
+    <li><a href="http://www.phonebook.com.pk" target="_blank">Online Directories</a></li>
+</ul>
+</div>
+<div class="col2">
+<ul>
+    <li><strong>Quick Links</strong></li>
+    <li><a href="http://www.na.gov.pk/en/index.php" target="_blank">National Assembly</a></li>
+    <li><a href="http://www.pmo.gov.pk" target="_blank">Prime Minister</a></li>
+    <li><a href="http://www.pakmet.com.pk/" target="_blank">Bureau of Meterology</a></li>
+    <li><a href="http://www.medisure.com.pk/" target="_blank">Medical Information Portal</a></li>
+</ul>
+</div>
+<div class="col3">
+<ul>
+    <li><strong>State Governments</strong></li>
+    <li><a href="http://www.pakistan.gov.pk" target="_blank">Pakistan Capital Territory</a></li>
+    <li><a href="http://www.sindh.gov.pk" target="_blank">Provincial Governments</a></li>
+    <li><a href="http://www.gilgitbaltistan.gov.pk/" target="_blank">Northern Territory</a></li>
+    <li><a href="http://www.pakistan.gov.pk/gop/index.php?q=aHR0cDovLzE5Mi4xNjguNzAuMTM2L2dvcC8uL2ZybURldGFpbHMuYXNweD9vcHQ9bWlzY2xpbmtzJmFtcDtpZD0yMg%3D%3D">Local Governments</a></li>
+</ul>
+</div>
+<div class="col4">
+<ul>
+    <li><strong>Law &amp; Order</strong></li>
+    <li><a href="http://www.islamabadpolice.gov.pk/Pages/default.aspx" target="_blank">Islamabad Police</a></li>
+    <li><a href="http://www.rescue.gov.pk/" target="_blank">Emergency Services</a></li>
+    <li><a href="http://www.fas.org/irp/world/pakistan/index.html" target="_blank">Departments &amp; Agencies</a></li>
+    <li><a href="http://www.nicepakistan.com/emergency.htm" target="_blank">Emergency Contacts</a></li>
+</ul>
+</div>
+<div class="col5">
+<ul>
+    <li><strong>Career</strong></li>
+    <li><a href="http://e-government.gov.pk/gop/index.php?q=aHR0cDovLzE5Mi4xNjguNzAuMTM2OjkwODgvZWdkc2l0ZTA1Ly4vP3RhYj1qb2Jz" target="_blank">Government Jobs</a></li>
+    <li><a href="http://www.rozee.pk" target="_blank">Private Sector jobs</a></li>
+    <li><a href="http://www.pakistan.gov.pk/gop/index.php?q=aHR0cHM6Ly93d3cuam9pbnBha2FybXkuZ292LnBrLw%3D%3D">Join Pakistan Army</a></li>
+    <li><a href="http://www.bayt.com/en/pakistan/">Overseas Jobs</a></li>
+</ul>
+</div>
+<div class="col5">
+<ul>
+    <li><strong>Misce</strong><!--[if gte mso 9]><xml>
+    <w:WordDocument>
+    <w:View>Normal</w:View>
+    <w:Zoom>0</w:Zoom>
+    <w:TrackMoves />
+    <w:TrackFormatting />
+    <w:PunctuationKerning />
+    <w:ValidateAgainstSchemas />
+    <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+    <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+    <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+    <w:DoNotPromoteQF />
+    <w:LidThemeOther>EN-US</w:LidThemeOther>
+    <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+    <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+    <w:Compatibility>
+    <w:BreakWrappedTables />
+    <w:SnapToGridInCell />
+    <w:WrapTextWithPunct />
+    <w:UseAsianBreakRules />
+    <w:DontGrowAutofit />
+    <w:SplitPgBreakAndParaMark />
+    <w:DontVertAlignCellWithSp />
+    <w:DontBreakConstrainedForcedTables />
+    <w:DontVertAlignInTxbx />
+    <w:Word11KerningPairs />
+    <w:CachedColBalance />
+    </w:Compatibility>
+    <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+    <m:mathPr>
+    <m:mathFont m:val="Cambria Math" />
+    <m:brkBin m:val="before" />
+    <m:brkBinSub m:val="&#45;-" />
+    <m:smallFrac m:val="off" />
+    <m:dispDef />
+    <m:lMargin m:val="0" />
+    <m:rMargin m:val="0" />
+    <m:defJc m:val="centerGroup" />
+    <m:wrapIndent m:val="1440" />
+    <m:intLim m:val="subSup" />
+    <m:naryLim m:val="undOvr" />
+    </m:mathPr></w:WordDocument>
+    </xml><![endif]--><!--[if gte mso 9]><xml>
+    <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+    DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+    LatentStyleCount="267">
+    <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+    UnhideWhenUsed="false" QFormat="true" Name="Normal" />
+    <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+    UnhideWhenUsed="false" QFormat="true" Name="heading 1" />
+    <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2" />
+    <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3" />
+    <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4" />
+    <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5" />
+    <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6" />
+    <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7" />
+    <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8" />
+    <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9" />
+    <w:LsdException Locked="false" Priority="39" Name="toc 1" />
+    <w:LsdException Locked="false" Priority="39" Name="toc 2" />
+    <w:LsdException Locked="false" Priority="39" Name="toc 3" />
+    <w:LsdException Locked="false" Priority="39" Name="toc 4" />
+    <w:LsdException Locked="false" Priority="39" Name="toc 5" />
+    <w:LsdException Locked="false" Priority="39" Name="toc 6" />
+    <w:LsdException Locked="false" Priority="39" Name="toc 7" />
+    <w:LsdException Locked="false" Priority="39" Name="toc 8" />
+    <w:LsdException Locked="false" Priority="39" Name="toc 9" />
+    <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption" />
+    <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+    UnhideWhenUsed="false" QFormat="true" Name="Title" />
+    <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font" />
+    <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+    UnhideWhenUsed="false" QFormat="true" Name="Subtitle" />
+    <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+    UnhideWhenUsed="false" QFormat="true" Name="Strong" />
+    <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+    UnhideWhenUsed="false" QFormat="true" Name="Emphasis" />
+    <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Table Grid" />
+    <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text" />
+    <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+    UnhideWhenUsed="false" QFormat="true" Name="No Spacing" />
+    <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Light Shading" />
+    <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Light List" />
+    <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Light Grid" />
+    <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Medium Shading 1" />
+    <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Medium Shading 2" />
+    <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Medium List 1" />
+    <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Medium List 2" />
+    <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Medium Grid 1" />
+    <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Medium Grid 2" />
+    <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Medium Grid 3" />
+    <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Dark List" />
+    <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Colorful Shading" />
+    <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Colorful List" />
+    <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Colorful Grid" />
+    <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Light Shading Accent 1" />
+    <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Light List Accent 1" />
+    <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Light Grid Accent 1" />
+    <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1" />
+    <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1" />
+    <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Medium List 1 Accent 1" />
+    <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision" />
+    <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+    UnhideWhenUsed="false" QFormat="true" Name="List Paragraph" />
+    <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+    UnhideWhenUsed="false" QFormat="true" Name="Quote" />
+    <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+    UnhideWhenUsed="false" QFormat="true" Name="Intense Quote" />
+    <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Medium List 2 Accent 1" />
+    <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1" />
+    <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1" />
+    <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1" />
+    <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Dark List Accent 1" />
+    <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Colorful Shading Accent 1" />
+    <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Colorful List Accent 1" />
+    <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Colorful Grid Accent 1" />
+    <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Light Shading Accent 2" />
+    <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Light List Accent 2" />
+    <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Light Grid Accent 2" />
+    <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2" />
+    <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2" />
+    <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Medium List 1 Accent 2" />
+    <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Medium List 2 Accent 2" />
+    <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2" />
+    <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2" />
+    <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2" />
+    <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Dark List Accent 2" />
+    <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Colorful Shading Accent 2" />
+    <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Colorful List Accent 2" />
+    <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Colorful Grid Accent 2" />
+    <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Light Shading Accent 3" />
+    <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Light List Accent 3" />
+    <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Light Grid Accent 3" />
+    <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3" />
+    <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3" />
+    <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Medium List 1 Accent 3" />
+    <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Medium List 2 Accent 3" />
+    <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3" />
+    <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3" />
+    <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3" />
+    <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Dark List Accent 3" />
+    <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Colorful Shading Accent 3" />
+    <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Colorful List Accent 3" />
+    <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Colorful Grid Accent 3" />
+    <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Light Shading Accent 4" />
+    <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Light List Accent 4" />
+    <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Light Grid Accent 4" />
+    <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4" />
+    <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4" />
+    <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Medium List 1 Accent 4" />
+    <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Medium List 2 Accent 4" />
+    <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4" />
+    <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4" />
+    <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4" />
+    <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Dark List Accent 4" />
+    <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Colorful Shading Accent 4" />
+    <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Colorful List Accent 4" />
+    <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Colorful Grid Accent 4" />
+    <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Light Shading Accent 5" />
+    <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Light List Accent 5" />
+    <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Light Grid Accent 5" />
+    <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5" />
+    <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5" />
+    <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Medium List 1 Accent 5" />
+    <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Medium List 2 Accent 5" />
+    <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5" />
+    <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5" />
+    <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5" />
+    <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Dark List Accent 5" />
+    <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Colorful Shading Accent 5" />
+    <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Colorful List Accent 5" />
+    <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Colorful Grid Accent 5" />
+    <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Light Shading Accent 6" />
+    <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Light List Accent 6" />
+    <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Light Grid Accent 6" />
+    <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6" />
+    <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6" />
+    <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Medium List 1 Accent 6" />
+    <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Medium List 2 Accent 6" />
+    <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6" />
+    <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6" />
+    <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6" />
+    <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Dark List Accent 6" />
+    <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Colorful Shading Accent 6" />
+    <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Colorful List Accent 6" />
+    <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+    UnhideWhenUsed="false" Name="Colorful Grid Accent 6" />
+    <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+    UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis" />
+    <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+    UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis" />
+    <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+    UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference" />
+    <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+    UnhideWhenUsed="false" QFormat="true" Name="Intense Reference" />
+    <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+    UnhideWhenUsed="false" QFormat="true" Name="Book Title" />
+    <w:LsdException Locked="false" Priority="37" Name="Bibliography" />
+    <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading" />
+    </w:LatentStyles>
+    </xml><![endif]--><!--[if gte mso 10]>
+    <style>
+    /* Style Definitions */
+    table.MsoNormalTable
+    {mso-style-name:"Table Normal";
+    mso-tstyle-rowband-size:0;
+    mso-tstyle-colband-size:0;
+    mso-style-noshow:yes;
+    mso-style-priority:99;
+    mso-style-qformat:yes;
+    mso-style-parent:"";
+    mso-padding-alt:0in 5.4pt 0in 5.4pt;
+    mso-para-margin-top:0in;
+    mso-para-margin-right:0in;
+    mso-para-margin-bottom:10.0pt;
+    mso-para-margin-left:0in;
+    line-height:115%;
+    mso-pagination:widow-orphan;
+    font-size:11.0pt;
+    font-family:"Calibri","sans-serif";
+    mso-ascii-font-family:Calibri;
+    mso-ascii-theme-font:minor-latin;
+    mso-fareast-font-family:"Times New Roman";
+    mso-fareast-theme-font:minor-fareast;
+    mso-hansi-font-family:Calibri;
+    mso-hansi-theme-font:minor-latin;
+    mso-bidi-font-family:"Times New Roman";
+    mso-bidi-theme-font:minor-bidi;}
+    </style>
+    <![endif]--><strong><span style="font-size:11.0pt;line-height:
+    115%;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;mso-ascii-theme-font:minor-latin;
+    mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:
+    minor-latin;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi;
+    mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA">llaneous</span></strong></li>
+    <li><a href="http://www.pakmet.com.pk/" target="_blank">Weather</a></li>
+    <li><a href="#">Blogs &amp; Forums</a></li>
+    <li><a href="http://www.tourism.gov.pk/fairs_festivals.html" target="_blank">Cultural Events</a></li>
+    <li><a href="http://nrsp.org.pk/" target="_blank">Rural Development</a></li>
+</ul>
+</div>
+</div>
+</div>
+<p>&nbsp;</p></div>
+<div id="footer">
+<p>Copyright 2011 <a href="#">e-Government.gov.pk</a>.
+&nbsp;Designed by <a href="http://www.e-government.gov.pk">Electronic Government Directorate</a>.
+</p>
+</div>
+</body>
+</html>
