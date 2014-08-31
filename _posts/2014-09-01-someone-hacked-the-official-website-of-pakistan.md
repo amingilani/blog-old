@@ -12,7 +12,7 @@ date: 2014-09-01T02:56:51+05:00
 
 Regardless of your views on the political situation, you have to hand it to some people. It takes quite a bit of courage (or stupidity) to tamper with a government website. I do not know who did this, I do not know when it was done, all I found was [this thread on reddit.](http://www.reddit.com/r/pakistan/comments/2f3fry/) Yes, it's ridiculous and yes, childish but let's not take life too seriously.
 
-By the time I found this, the website had been taken offline, so I grabbed the HTML code off a cached version of the website, and cleaned it up for better viewing. The presentation has been stripped away and the images saved locally, but the the message has been preserved.
+By the time I found this, the website had been taken offline, so I grabbed the HTML code off of a cached version of the website, and cleaned it up for better viewing. The presentation has been stripped away and the images saved locally, but the the message has been preserved.
 
 Behold, I give you a message from the Prime Minister (lol) that appeared on the [Official Website of Pakistan](http://pakistan.gov.pk):
 
