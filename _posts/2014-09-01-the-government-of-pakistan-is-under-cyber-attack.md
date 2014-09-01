@@ -13,6 +13,11 @@ Among the many events of yesterday, Anonymous, a loose group of international ac
 
 Albeit extremely basic, their website has a care package to help protestors counter **tear gas** and internet censorship, among other things. I have personally verified that Operation Pakistan is linked to Operation Ferguson <del>because the OpPakistan website is an iframe pointing to the OpFerguson host</del> just trust me.
 
+I'll keep adding updates to this list. Latest first:
+
++ Leaked: Transparency International Pakistan credentials
++ Leaked: Customer database for Center for International Strategic Studies
++ Even more websites
 + More websites knocked offline
 + Leaked:  23K Bank Records Of The Pakistan Government
 + Leaked:  Federal Public Service Commission usernames, emails, and passwords
