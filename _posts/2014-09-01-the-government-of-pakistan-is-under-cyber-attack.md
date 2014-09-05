@@ -8,6 +8,7 @@ tags: []
 image:
   feature:
 date: 2014-09-01T17:32:40+05:00
+comments: true
 ---
 Among the many events of yesterday, Anonymous, a loose group of international activists declared a fullblown war upon the Government of Pakistan, and especially Prime Minister Nawaz Sharif with a direct threat to the "safety and security of [his] family," anonymous urges Nawaz Sharif to leave Pakistan immediately.
 

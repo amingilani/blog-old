@@ -8,6 +8,7 @@ tags: [Game of Thrones, A Song of Ice and Fire, Tywin Lannister]
 image:
   feature:
 date: 2014-06-16T16:05:00+05:00
+comments: true
 ---
 As the series begins to catch up to the books, I think it's time I wrote a tribute to one of the strongest characters I have ever known: Tywin Lannister.
 

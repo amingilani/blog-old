@@ -8,6 +8,7 @@ tags: []
 image:
   feature:
 date: 2014-09-01T02:56:51+05:00
+comments: true
 ---
 
 *Update:* I found a screenshot, don't know who to credit it to: ![Screenshot](/media/2014-09-01-someone-hacked-the-official-website-of-pakistan/screenshot.jpg)

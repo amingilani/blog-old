@@ -8,6 +8,7 @@ tags: []
 status: publish
 type: post
 published: true
+comments: true
 ---
 Hey,
 
