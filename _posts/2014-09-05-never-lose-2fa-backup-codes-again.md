@@ -21,7 +21,7 @@ Sometimes don't print my Two-Factor Authentication backup codes all the time. I'
 
 Got those? Perfect. Do this:
 
-1. Open `https://encrypt.to` and type in your key id, or email address.
+1. Open [https://encrypt.to](https://encrypt.to) and type in your key id, or email address.
 2. Paste in the codes
 3. To: `youremailaddress+2FA$service@gmail.com` where $service is your 2FA provider.
     example: `me+2FAgithub@gmail.com`
