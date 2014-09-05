@@ -3,7 +3,7 @@ layout: post
 title: "Never Lose 2FA Backup Codes Again"
 modified:
 categories:
-- Geeking Out
+- Geeking-Out
 excerpt: After being locked out of my account a bunch of times, I worked out a way to never let that happen again.
 tags:
 - Two Factor Authentication
