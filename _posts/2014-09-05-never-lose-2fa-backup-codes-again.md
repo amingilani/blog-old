@@ -32,4 +32,4 @@ Now if you never need your codes, just search for `to:me+2FAgithub@gmail.com` in
 
 This works because Gmail ignores anything after the `+` sign after your username. You can send an email to `you+anything@gmail.com` and the email will always show up in your inbox.
 
-Freebie: When signing up for dodgy websites, use `you+dodgysite@gmail.com` as your email address. That way if they leak your email address to spammers, you can always set a filter to direct all mail to that email address into your Spam.
+*Freebie: When signing up for dodgy websites, use `you+dodgysite@gmail.com` as your email address. That way if they leak your email address to spammers, you can simply set a filter to direct all mail to that email address into your Spam.*
