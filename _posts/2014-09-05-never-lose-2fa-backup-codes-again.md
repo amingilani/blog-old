@@ -28,4 +28,8 @@ Got those? Perfect. Do this:
 4. Send!
 5. That's it!
 
-Now if you never need your codes, just search for `to:me+2FAgithub@gmail.com` in your gmail and voila. The lazy man's backup. **Remember, this is a backup of your codes,** not the primary method to be storing your codes. This is no replacement for a good oldfashioned printout! What do you think you'll do if you lose access to your Gmail?
+Now if you never need your codes, just search for `to:me+2FAgithub@gmail.com` in your gmail and voila. The lazy man's secure backup. **Remember, this is a backup of your codes,** not the primary method to be storing your codes. This is no replacement for a good old fashioned printout! What do you think you'll do if you lose access to your Gmail?
+
+This works because Gmail ignores anything after the `+` sign after your username. You can send an email to `you+anything@gmail.com` and the email will always show up in your inbox.
+
+Freebie: When signing up for dodgy websites, use `you+dodgysite@gmail.com` as your email address. That way if they leak your email address to spammers, you can always set a filter to direct all mail to that email address into your Spam.
