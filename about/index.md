@@ -15,11 +15,11 @@ This is my own personal corner of the internet, where I play God, and share my t
 
 ## Other stuff:
 
-* PGP Key: [0x4cd8d8f2](https://encrypt.to/0x4cd8d8f2)
 * Tips <a id="tips"> </a>
     * BTC: [1EGD5M1vtJXHrZG8XdqsiHBESA9BXBtdG9](https://btc.blockr.io/address/info/1EGD5M1vtJXHrZG8XdqsiHBESA9BXBtdG9)
     * LTC: [LeJPqBucq2TAaXCydcxQyhDiMjSTUqUZLp](http://ltc.blockr.io/address/info/LeJPqBucq2TAaXCydcxQyhDiMjSTUqUZLp)
     * DOGE: [DB3P65RqjTgi9YJaEKRDcKxuatpkfUNU8M](http://dogechain.info/address/DB3P65RqjTgi9YJaEKRDcKxuatpkfUNU8M)
+* Keybase.io: [@gilani](https://keybase.io/gilani)
 
 
 ## Legalese
