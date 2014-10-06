@@ -17,4 +17,7 @@ image:
 <a href="http://instagram.com/amingilani" target="_blank"><i class="fa fa-instagram"></i></a>
 <a href="http://github.com/amingilani" target="_blank"><i class="fa fa-github"></i></a>
 
-or send me a **signed** cryptomessage: [keybase.io/gilani](https://keybase.io/gilani)
+or send me a **signed** cryptomessage:
+
++ [PGP key](/key.asc)
++ [keybase.io/gilani](https://keybase.io/gilani)
