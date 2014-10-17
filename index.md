@@ -1,6 +1,6 @@
 ---
 layout: home
-excerpt: "A small corner of the internet, where I am God."
+excerpt: "A small corner of the internet, where I a play God."
 tags: [blog, personal, technology, food, love]
 image:
   feature: murree.jpg
