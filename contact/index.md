@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Contact"
-date: 
+date:
 modified:
 excerpt: "Call unto me, and I will answer thee, and shew thee great and mighty things, which thou knowest not (Jeremiah 33:3)"
 tags: [contact]
@@ -19,5 +19,5 @@ image:
 
 or send me a **signed** cryptomessage:
 
-+ [PGP key](/key.asc)
++ [PGP key](https://amingilani.github.io/key.asc)
 + [keybase.io/gilani](https://keybase.io/gilani)
